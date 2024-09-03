@@ -1,3 +1,3 @@
 #
-How to use Hammer Watch it
+How to use DDoS-LO Watch it
 Fork it...
